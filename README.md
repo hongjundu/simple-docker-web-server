@@ -1,6 +1,6 @@
 # Simple web server running in a docker container
 
-## 1. Build nginx image
+## 1. Build nginx docker image
     docker build -t mynginx .
 
 ## 2. Run docker container as a web server
